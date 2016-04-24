@@ -2,8 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   
   <artifactId>add-task</artifactId>
-  <name>Add User Service</name>
-  <description>User used to adding users</description>
+  <name>Add Task Service</name>
+  <description>Used to adding tasks</description>
   
   <parent>
         <groupId>org.springframework.boot</groupId>
